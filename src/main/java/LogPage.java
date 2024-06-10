@@ -264,7 +264,7 @@ public class LogPage extends javax.swing.JFrame {
         jLabel7.setBounds(0, 0, 1010, 580);
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("ACWFR");
+        setTitle("ACWFR-GIRIS");
         setBounds(new java.awt.Rectangle(200, 200, 1000, 570));
         setName("loginf"); // NOI18N
         setPreferredSize(new java.awt.Dimension(1000, 570));
